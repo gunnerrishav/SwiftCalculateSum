@@ -16,7 +16,7 @@ public class CalculateSum {
         print("Action performed")
     }
     
-    func calcuateSum(of num1: Double, and num2: Double) -> Double{
+    public func calcuateSum(of num1: Double, and num2: Double) -> Double{
         return num1 + num2
     }
 }
