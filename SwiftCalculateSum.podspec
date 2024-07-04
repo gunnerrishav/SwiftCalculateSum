@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SwiftCalculateSum"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "Calculate sum of two numbers."
 
   # This description is used to generate tags and improve search results.
@@ -81,7 +81,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/gunnerrishav/SwiftCalculateSum.git", :tag => "0.0.2" }
+  spec.source       = { :git => "https://github.com/gunnerrishav/SwiftCalculateSum.git", :tag => "0.0.3" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
